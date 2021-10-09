@@ -5,6 +5,10 @@ deploy link:
 
 bellow is the read me for the homework given by anthony.
 
+activities referenced: 11, 12, 25, 26, (week 4) 21 . 
+
+store array of strings
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
