@@ -28,6 +28,7 @@ function renderLastRegistered() {
 
       console.log(toDoInput);
       toDoInput.innerHTML = toDoInput;
+      
     }}
 
 
