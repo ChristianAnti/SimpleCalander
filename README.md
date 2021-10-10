@@ -5,7 +5,7 @@ deploy link:
 
 bellow is the read me for the homework given by anthony.
 
-activities referenced: 11, 12, 25, 26, (week 4) 21 . 
+activities referenced: 11, 12, 25, 26, (week 4) 21, 22 . 
 
 store array of strings
 

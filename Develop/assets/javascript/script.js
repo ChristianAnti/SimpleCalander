@@ -40,9 +40,7 @@ saveButton.addEventListener("click", function(event) {
     var toDoInput = document.querySelector("#toDoInput").value;
 
       localStorage.setItem("toDoInput", toDoInput);
-      // * It's done when the information under Last Registered User is updated to reflect the data stored using `localStorage`.
+      
       renderLastRegistered();
     }
   );
-
-// ```
